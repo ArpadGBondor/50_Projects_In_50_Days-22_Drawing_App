@@ -2,3 +2,5 @@
 
 ## Udemy - 50 Projects In 50 Days - HTML, CSS & JavaScript
 ### Section 23: Day 22 - Drawing App
+
+Added 'mouseleave' and 'mouseenter' event listeners to fix a bug when the mouse leaves the canvas while drawing.
