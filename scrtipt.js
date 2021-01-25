@@ -35,6 +35,7 @@ function mouseDown(e) {
   isPressed = true;
   x = e.offsetX;
   y = e.offsetY;
+  drawCircle(x, y);
 }
 
 function mouseUp() {
